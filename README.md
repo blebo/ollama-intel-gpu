@@ -48,7 +48,7 @@ ollama-intel-gpu:
       args:
         IPEXLLM_RELEASE_REPO: ipex-llm/ipex-llm
         IPEXLLM_RELEASE_VERSON: v2.3.0-nightly
-        IPEXLLM_PORTABLE_ZIP_FILENAME: ollama-ipex-llm-2.3.0b20250415-ubuntu.tgz
+        IPEXLLM_PORTABLE_ZIP_FILENAME: ollama-ipex-llm-2.3.0b20250612-ubuntu.tgz
 ``` 
 
 # References
